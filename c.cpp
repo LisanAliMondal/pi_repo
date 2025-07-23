@@ -6,4 +6,5 @@ int main(){
 	int b=14;
 	cout << "sum is " <<a+b;
 	cout << "multiple is " << a*b;
+	cout << "ghhg";
 }
